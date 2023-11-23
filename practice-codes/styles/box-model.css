@@ -1,0 +1,10 @@
+.box-model {
+    background-color: lightgreen;
+    margin: 20px 300px;
+    
+    width: 50%;
+    border: 3px solid green;
+    border-radius: 2px;
+    padding: 10px;
+    text-align: center;
+}

@@ -1,0 +1,96 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+.heading{
+    font-size: 40px;
+}
+h2{
+    font-size: 20px;
+}
+.orange-color{
+    color: orange;
+}
+
+
+
+.half-width{
+    width: 50%;
+    margin-left: 5%;
+    padding-left: 2%;
+    
+}
+
+.half-width img{
+    width: 100%;
+    
+}
+
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    color: white;
+    font-weight: 700;
+    padding: 10px 40px;
+    border-radius: 5px;
+    
+}
+.top-banner{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+    display:flex;
+    
+}
+
+.dream-big{
+    margin-top: 150px;
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    display:flex;
+    
+}
+
+
+
+.last-section{
+    
+    margin-top: 150px;
+    margin-bottom: 150px;
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    
+}
+
+.flex{
+    display: flex;
+}
+
+.shadow{
+    width: 50%;
+    margin-left: 5%;
+    padding: 2%;
+    float: left;
+    box-shadow: 10px 10px 40px grey;
+    
+}
+
+#baby{
+    margin-right: 5%;
+    border-left: 7px solid;
+    
+    border-image: linear-gradient(blue, cyan);
+    border-image-slice: 1;
+}
+
+#stack{
+    border-left: 7px solid;
+    border-image: linear-gradient(red, salmon);
+    border-image-slice: 1;
+}
+
+footer{
+    text-align: center;
+    color: dimgray;
+}

@@ -1,0 +1,22 @@
+
+
+nav li{
+
+    list-style: none;
+    display: inline;
+    margin: 25px;
+    padding: 0px 10px;
+
+
+
+}
+
+nav li a{
+    color: white;
+    text-decoration: none;
+}
+
+nav a:hover{
+    background-color: lightgray;
+    color: black;
+}

@@ -1,0 +1,127 @@
+body {
+    /* background-color: rgba(240, 240, 240, 0.945); */
+    font-family: "Montserrat", sans-serif;
+    margin: 0px;
+}
+h1 {
+    font-size: 50px;
+    font-weight: 700;
+    color: rgba(82, 80, 80, 0.897);
+}
+p {
+    color: rgba(82, 80, 80, 0.897);
+    font-size: 20px;
+    padding-bottom: 40px;
+}
+
+ img {
+    padding-top: 40px;
+}
+.second-section img {
+    
+    padding-left: 200px;
+    
+}
+.first-section {
+    display: flex;
+    padding-bottom: 100px;
+}
+
+.second-section {
+    display: flex;
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+.word-color {
+    color: tomato;
+}
+
+.half-width {
+    width: 50%;
+}
+
+.top-text {
+    padding-top: 150px;
+    padding-left: 100px;
+    width: 40%;
+}
+
+.click-button {
+    text-decoration: none;
+    background-image: linear-gradient(to right, salmon, tomato);
+    padding: 20px 40px;
+    margin-top: 40px;
+    border-radius: 30px;
+    color: white;
+    font-weight: bold;
+}
+
+.third-section-head {
+    text-align: center;
+    padding-left: 24%;
+    padding-right: 24%;
+}
+
+.third-section-content {
+    display: flex;
+    padding: 0% 6%;
+    padding-bottom: 40px;
+}
+
+.box {
+    margin: 30px;
+    border: 25px solid white;
+    border-radius: 30px;
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.box-heading {
+    color: black;
+    font-size: 30px;
+}
+
+.box img {
+    padding-top: 0px;
+    padding-bottom: 10px;
+    width: 100%;
+}
+
+.third-section-foot {
+    background-color: white;
+    display: flex;
+    margin: 5% 10%;
+    border: 10px solid white;
+    border-radius: 30px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.fbox {
+    text-align: center;
+    font-size: 40px;
+    width: 50%;
+}
+.third-section p {
+    color: black;
+}
+.fbox h1 {
+    font-size: 40px;
+    color: black;
+}
+
+.last-section {
+    background-color: black;
+    text-align: center;
+    padding: 20px;
+}
+
+.last-section h1{
+    font-size: 40px;
+}
+
+.last-section p{
+    color: white;
+    font-size: 20px;
+}
